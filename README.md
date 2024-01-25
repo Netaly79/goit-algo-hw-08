@@ -1,8 +1,13 @@
 # goit-algo-hw-08
 
 
-Start array: [9, 17, 4, 7, 3, 17, 2, 8, 1, 17]
+Start array: [3, 6, 12, 19, 19] 
 
-Results array [3, 6, 10, 17, 25, 34, 51, 68, 85]
+heap [9, 12, 19, 19]
+heap [19, 19, 21]
+heap [21, 38]
+heap [59]
 
-Result:  299 
+Results array [9, 21, 38, 59]
+
+Result:  127 
